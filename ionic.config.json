@@ -1,0 +1,7 @@
+{
+  "name": "TosunMarket",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
